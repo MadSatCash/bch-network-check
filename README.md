@@ -22,3 +22,12 @@ The script returns:
 
 ```bash
 python bch_network_check.py
+
+## Requirements
+
+- Python 3
+- Internet connection
+
+## Notes
+
+The script queries public Electrum servers and does not require a local BCH node.
