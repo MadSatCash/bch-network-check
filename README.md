@@ -26,7 +26,7 @@ python bch_network_check.py
 
 ## Requirements
 
-- Python 3 or .exe file
+- Python 3 or the Windows executable
 - Internet connection
 
 ## Notes
